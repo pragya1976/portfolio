@@ -1,0 +1,42 @@
+{
+  "projects": [
+    {
+      "title": "NewsTodayApp",
+      "description": "Modern news app design with a sleek interface and personalized content curation to keep users up-to-date on the latest news stories.",
+      "url": "https://dribbble.com/shots/21066419-News2Day-App",
+      "imgSrc": "https://cdn.dribbble.com/userupload/5879681/file/original-40f8e1f97ffaee38151229b13c8f3a26.png?compress=1&resize=752x"
+    },
+
+    {
+      "title": "Education Hub ",
+      "description": "Introducing Education Hub, the premier online education video sharing platform that revolutionizes the way we learn and share knowledge",
+      "url": "https://education-steel.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+    {
+      "title": "CoinWatch",
+      "description": "CoinWatch is the go-to platform for crypto enthusiasts, investors, and traders, providing an intuitive and user-friendly interface for tracking, analyzing, and staying updated on the latest market trends.",
+      "url": "https://crypto-app-seven-theta.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+    },
+
+    {
+      "title": "Donate A smile",
+      "description": "User-friendly donation app design with customizable donation options for a hassle-free donation experience.",
+      "url": "https://dribbble.com/shots/21066455-Donate-A-Smile",
+      "imgSrc": "https://cdn.dribbble.com/userupload/5879771/file/original-d3a0bb2d5403502d3d73f25687c56cb4.png?compress=1&resize=752x"
+    },
+    {
+      "title": "Forum",
+      "description": "Engaging tech forum website design that fosters an online community by providing a platform for users to discuss, learn, and share the latest tech trends and advancements.",
+      "url": "https://dribbble.com/shots/21066520-Forum-Website-Design",
+      "imgSrc": "https://cdn.dribbble.com/userupload/5879932/file/original-e265849eb751b5208cfc5170fd18097b.png?compress=1&resize=752x"
+    },
+    {
+      "title": "SaveMyForm",
+      "description": "Hero section for the project SaveMyForm, a platform to save your website's form submissions easily without creating your own backend.",
+      "url": "https://dribbble.com/shots/21066480-SaveMyForm",
+      "imgSrc": "https://cdn.dribbble.com/userupload/5879839/file/original-db8c9a051bcfbd02fd2d51ac10fc5a4f.png?compress=1&resize=752x"
+    }
+  ]
+}
